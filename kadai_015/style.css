@@ -1,0 +1,39 @@
+body {
+  /* フォントの種類 */
+  font-family: "Arial", "Meiryo", sans-serif;
+  /* フォントサイズ */
+  font-size: 20px;
+  /* テキストすべて中央寄せ */
+  text-align: center;
+}
+
+.blue {
+  /* フォントカラー */
+  color: skyblue;
+}
+
+.pink {
+  /* フォントカラー */
+  color: rgb(255, 192, 203);
+}
+
+
+h1 {
+  font-family: "Noto Sans JP", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  /* フォントサイズ */
+  font-size: 2rem;
+  /* 文字間 */
+  letter-spacing: 1.2em;
+  /* 影 */
+  text-shadow: 1px 1px 2px gray;
+  /* 下線 */
+  text-decoration: underline rgb( 115, 115, 114);
+}
+
+#basic p {
+  /* 太字 */
+  font-weight: bold;
+}
